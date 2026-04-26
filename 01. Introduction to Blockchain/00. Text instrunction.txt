@@ -32,3 +32,11 @@ Government and Public Sector
 Energy Sector
 Entertainment and Media 
 Education 
+
+--------------------------------------------
+Basic principles: blocks, chains, and nodes.
+--------------------------------------------
+Blocks 
+Chains 
+Nodes 
+Interaction of Blocks, Chains, and Nodes 
