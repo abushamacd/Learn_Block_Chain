@@ -1,0 +1,11 @@
+Definition of Blockchain
+
+Key Concept of Blockchain
+    Distributed Ledger 
+    Cryptography 
+    Smart Contracts 
+    Tokens 
+    Consensus Mechanisms 
+    Immutability 
+    Decentralization 
+
