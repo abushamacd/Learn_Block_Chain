@@ -1,5 +1,6 @@
+------------------------------
 Definition of Blockchain
-
+------------------------------
 Key Concept of Blockchain
     Distributed Ledger 
     Cryptography 
@@ -9,3 +10,13 @@ Key Concept of Blockchain
     Immutability 
     Decentralization 
 
+
+------------------------
+History of Blockchain
+------------------------
+Early Foundations (1980s-1990s) of Blockchain
+Birth of Bitcoin (2008-2009)
+Early Bitcoin Years (2010-2013) 
+Rise of Altcoins and Blockchain 2.0 (2011-2015) 
+Blockchain Expansion and Enterprise Adoption (2015-2018) 
+Maturation and Diversification (2019-Present) 
